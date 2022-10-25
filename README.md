@@ -18,8 +18,8 @@ Cheers
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff" alt="CSS3">
 
 ### Frameworks:
-
-  <img src="https://img.shields.io/badge/-AngularJS-E23237?style=for-the-badge&logo=AngularJS&logoColor=fff" alt="Angular">
+  
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   
   <img src="https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=fff" alt="SASS">
   
