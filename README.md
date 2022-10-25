@@ -3,7 +3,7 @@ I've just entered the world of programming, I've had previous experiences workin
 Always open to learn new things and do some crazy stuff.
 Cheers
 
-* 🎨 FullStack Dev, working on Angular and Spring.
+* 🎨 FullStack Dev, Studying Angular and Spring.
 
 ### Programing Languages:
 
